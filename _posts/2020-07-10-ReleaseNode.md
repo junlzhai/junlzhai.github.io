@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 博客迭代记录
+title: 博客撰写日记
 date: 2020-07-10 
 tags: jekyll    
 ---
