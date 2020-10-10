@@ -4,6 +4,8 @@ title: HEXO进阶
 tag: hexo
 ---
 
+转载至：[潘柏信的博客](https://leopardpan.cn) » [点击阅读原文](http://leopardpan.cn/2016/06/HEXO_Advanced/)
+
 HEXO接近是最近有一些朋友提出的问题，然后我做了总结，如果你也在使用HEXO，不妨看看，应该会有些帮助。
 
 * 1、博客部署样式出问题了怎么办？
@@ -77,5 +79,3 @@ HEXO接近是最近有一些朋友提出的问题，然后我做了总结，如�
 [解决 Github Pages 禁止百度爬虫的方法与可行性分析](http://jerryzou.com/posts/feasibility-of-allowing-baiduSpider-for-Github-Pages/)
 
 <br>
-
-转载请注明：[潘柏信的博客](https://leopardpan.cn) » [点击阅读原文](http://leopardpan.cn/2016/06/HEXO_Advanced/)
